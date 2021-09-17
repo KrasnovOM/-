@@ -1,0 +1,1 @@
+print('null' + '\n null' + '\n null')
